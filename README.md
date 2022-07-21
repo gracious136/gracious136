@@ -1,4 +1,11 @@
-### Hi there 👋
+### Hi there, I'm Grace👋 Nice to meet you.
+- 🎓I am a Master's student of Environmental Sciences at the University of Koblenz-Landau 🏛 
+- 🌱 I’m currently learning and improving my skills in data science and machine learning.
+- 👯 I’m looking to collaborate on data analytics and machine learning projects
+- I always look forward to hearing from you. feel Free to say HI :smiley:
+- 📫 How to reach me: :link:https://www.linkedin.com/in/onyinye-grace-ejimkonye/ or graciousgrace136@gmail.com
+
+
 
 <!--
 **gracious136/gracious136** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
