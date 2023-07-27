@@ -1,5 +1,5 @@
 ### Hi there, I'm Grace👋 Nice to meet you.
-- 🎓I am a Master's student of Environmental Sciences at the University of Koblenz-Landau 🏛 
+- 🎓I am a graduate of Environmental Management 🏛 
 - 🌱 I’m currently learning and improving my skills in data science and machine learning.
 - 👯 I’m looking to collaborate on data analytics and machine learning projects
 - I always look forward to hearing from you. feel Free to say HI :smiley:
