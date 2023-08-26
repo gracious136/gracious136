@@ -1,7 +1,6 @@
 ### Hi there, I'm Grace! 👋 Nice to meet you.
 
 - 🌱 I’m currently learning and improving my skills in data science and machine learning.
-- 🎓 I am a graduate of Environmental Management 🏛
 - 👯 I’m looking to collaborate on data analytics and machine learning projects. If you're interested in collaborating, feel free to reach out!
 - 💼 I'm actively seeking job opportunities in the data field and would love to contribute my skills to impactful projects.
 - :smiley: I always look forward to hearing from you. Feel free to say HI!
